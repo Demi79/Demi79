@@ -87,14 +87,6 @@ Flutter • Supabase • Firebase Cloud Messaging
 
 ---
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Demi79&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Demi79&layout=compact)
-
----
-
 ## Interests
 
 - Technical Business Analysis
