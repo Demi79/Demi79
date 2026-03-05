@@ -1,88 +1,97 @@
 # Hi, I'm Diem 👋
 
-Software Engineering graduate with experience in building web and mobile applications.  
-Interested in **Technical Business Analysis, system design, and modern application development**.
+Software Engineering graduate passionate about building **web and mobile applications** and interested in **Technical Business Analysis and system design**.
 
-I enjoy working on **multi-role platforms**, analyzing workflows, and implementing scalable UI for real-world systems.
+I enjoy working on **multi-role platforms, booking systems, and operational platforms**, combining **technical development and system thinking** to deliver practical solutions.
 
 ---
 
 ## Tech Stack
 
-**Frontend**
-- JavaScript (ES6+)
-- TypeScript
-- ReactJS
-- HTML5 / CSS3
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![React](https://img.shields.io/badge/ReactJS-61DAFB)
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
 
-**Mobile**
-- React Native
-- Flutter
+### Mobile
+![React Native](https://img.shields.io/badge/React%20Native-mobile-blue)
+![Flutter](https://img.shields.io/badge/Flutter-mobile-blue)
 
-**Backend & Data (Working Knowledge)**
-- Node.js
-- REST API integration
-- MySQL
-- MongoDB
+### Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![MySQL](https://img.shields.io/badge/MySQL-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
 
-**Tools**
-- Git & GitHub
-- Postman
-- Jira
-- Figma
-- Agile / Scrum
+### Tools
+![Git](https://img.shields.io/badge/Git-orange)
+![Postman](https://img.shields.io/badge/Postman-orange)
+![Jira](https://img.shields.io/badge/Jira-blue)
+![Figma](https://img.shields.io/badge/Figma-purple)
 
 ---
 
 ## Featured Projects
 
 ### Blood Donation Support System
-Multi-role platform supporting blood donors, medical staff, and administrators.
+Multi-role platform supporting donors, medical staff, and administrators.
 
 Features
 - Donor registration and donation tracking
 - Blood inventory management
-- Emergency blood request support
+- Emergency blood request search
 
-Tech: ReactJS, TypeScript, Node.js, MongoDB
+Tech  
+ReactJS • TypeScript • Node.js • MongoDB
 
 ---
 
 ### Badminton Court Booking Platform
-Web application for booking badminton courts with real-time availability.
+Web platform for booking badminton courts with real-time availability.
 
 Features
-- Court and time-slot booking
-- Payment workflow
-- Reservation lifecycle management
-- Conflict detection for booking slots
+- Court booking and time-slot management
+- Payment and reservation lifecycle handling
+- Conflict detection for booking schedules
 
-Tech: ReactJS, JavaScript, REST API, MySQL
+Tech  
+ReactJS • JavaScript • REST API • MySQL
 
 ---
 
 ### Skincare Service Booking System
-Service booking platform connecting customers and therapists.
+Service booking platform connecting customers with therapists.
 
 Features
-- Service listing and booking workflow
-- Order tracking and payment integration
+- Service listing and booking lifecycle
 - Role-based dashboards
+- Payment and order tracking
 
-Tech: ReactJS, React Native, Firebase, REST API
+Tech  
+ReactJS • React Native • Firebase • REST API
 
 ---
 
 ### Intelligent Patient Monitoring System
-Mobile application for monitoring patient activities and emergency alerts.
+Mobile system for monitoring patient activity and sending emergency alerts.
 
 Features
 - Real-time event monitoring
-- Alert notification system
+- Alert notification workflows
 - Camera monitoring integration
-- Caregiver and family user interfaces
+- Caregiver and family dashboards
 
-Tech: Flutter, Supabase, Firebase Cloud Messaging
+Tech  
+Flutter • Supabase • Firebase Cloud Messaging
+
+---
+
+## GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Demi79&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Demi79&layout=compact)
 
 ---
 
@@ -90,8 +99,8 @@ Tech: Flutter, Supabase, Firebase Cloud Messaging
 
 - Technical Business Analysis
 - System architecture
-- Multi-role system design
-- Frontend and mobile application development
+- Multi-role platform design
+- Frontend and mobile development
 - Product-oriented software development
 
 ---
